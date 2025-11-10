@@ -28,9 +28,10 @@ input {
 }
 
 #fohasz {
+	text-transform: uppercase;
 	font-style: italic;
 	text-align: center;
-	
+
 }
 
 #oazis {
